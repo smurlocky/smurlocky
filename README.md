@@ -3,7 +3,7 @@
   <img align="right" alt="pumpick-Marcos" height="210" width="210"
 src="https://cdn.discordapp.com/attachments/452662449825513474/1180297901461745705/token_1.png?ex=657ce914&is=656a7414&hm=69f86454c7cb66647c82acdc900950f718dc72945da4e12e39898077089f8134&"/>
 
-- 🔭 Hoje eu sou uma estudante de SI na UFPB
+- 🔭 Hoje eu sou um estudante de SI na UFPB
 - 🐱‍👤 Atualmente estou estudando Angular e Java
 - 🐱‍🏍 Estou procurando formas de melhorar meus conhecimentos
 - 📫  Contate-me nos emails: mvinicios.avelino@gmail.com, ou, marcos.satro@dcx.ufpb.br
