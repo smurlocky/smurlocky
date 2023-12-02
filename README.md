@@ -14,7 +14,7 @@ src="https://cdn.discordapp.com/attachments/452662449825513474/11802979014617457
 <div>
   <a href="https://github.com/smurlocky"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smurlocky&show_icons=true&theme=tokyonight"/>
-  <img height="215em" width ="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smurlocky&theme=tokyonight&layout=donut"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
