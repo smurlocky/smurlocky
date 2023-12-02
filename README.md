@@ -11,9 +11,6 @@ src="https://cdn.discordapp.com/attachments/452662449825513474/11802979014617457
 
 </div>
 
-
-
-
 <div>
   <a href="https://github.com/smurlocky"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smurlocky&show_icons=true&theme=tokyonight"/>
