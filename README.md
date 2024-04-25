@@ -1,7 +1,7 @@
 ### Olá, eu me chamo Marcos Vinicius 👋
 <div align="left">
   <img align="right" alt="pumpick-Marcos" height="210" width="210"
-src="https://cdn.discordapp.com/attachments/452662449825513474/1180297901461745705/token_1.png?ex=657ce914&is=656a7414&hm=69f86454c7cb66647c82acdc900950f718dc72945da4e12e39898077089f8134&"/>
+src="https://cdn.discordapp.com/attachments/452662449825513474/1180297901461745705/token_1.png?ex=662aef14&is=66299d94&hm=6ef569958af08aebd9583034622f6b60200b4bb4fd9eacb371f05327b905df5d&&"/>
 
 - 🔭 Hoje eu sou um estudante de SI na UFPB
 - 🐱‍👤 Atualmente estou estudando Angular e Java
